@@ -1,6 +1,7 @@
 .jumbotron{
 	background-color: #1F618D;
 	color: white;
+	margin-top: 20px;
 }
 
 .btn{
@@ -13,7 +14,7 @@ footer{
 	padding: 10px 10px 0 10px;
 	background-color : #1F618D;
 	margin-bottom: 0px;
-	margin-top: 10px
+	margin-top: 10px;
 	color: white;
 
 }
